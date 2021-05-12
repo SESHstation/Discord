@@ -6,8 +6,11 @@ Don't be rude to people or give them attitude, especially those who are helping 
 
 - **Don't be annoying**  
 
-- **No publishing of personal information**
-Real names, addresses, emails, passwords, bank account and credit card information, you will be banned.
+- **Use of offensive & racist language could result in an immediate ban**
+
+- **Do not ping/harass any users or staff without cause**
+
+- **Links to scam, phishing, dangerous, illegal or pirated content will result in an immediate ban**
 
 - **If you need help you can always talk to the Staff / Mods they are here to help you**
 
@@ -17,4 +20,8 @@ Real names, addresses, emails, passwords, bank account and credit card informati
 
 **If you believe that your ban was issued unjustly or your infraction didn't warrant a permanent suspension feel free to [appeal](#).**  
 
-We generally try to follow this when moderating but we reserve the right to expel any user we believe is detrimental to the community.  
+We generally try to follow this when moderating but we reserve the right to expel any user we believe is detrimental to the community.
+
+Discord Terms Of Service & Community Guidelines
+[Terms Of Service](https://discord.com/terms)
+[Community Guidelines](https://discord.com/guidelines)
