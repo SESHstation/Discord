@@ -23,5 +23,5 @@ Don't be rude to people or give them attitude, especially those who are helping 
 We generally try to follow this when moderating but we reserve the right to expel any user we believe is detrimental to the community.
 
 Discord Terms Of Service & Community Guidelines
-[Terms Of Service](https://discord.com/terms)
-[Community Guidelines](https://discord.com/guidelines)
+- [Terms Of Service](https://discord.com/terms)
+- [Community Guidelines](https://discord.com/guidelines)
